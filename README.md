@@ -1,5 +1,5 @@
 # LiveShowWeb
-A Small Live Show Front
+A Small Live Show front-end
 
 # Chrome Settings 
 ```
