@@ -2,10 +2,8 @@
 A Small Live Show front-end
 
 # Chrome Settings 
-```
---disable-web-security
-```
-
+install [cors unblock](https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino)
+and then open [live show](http://liveshow.404.mn/)
 ### Run Chrome browser without CORS by disabling web security
 We can run the chrome browser in a security disabled mode, this is very helpful while developing a application.
 
